@@ -1,2 +1,6 @@
 # Should This Loan be Approved or Denied?
- Academic Project for the DataScience Course
+ 
+   The U.S. small business administration (SBA) was founded in 1953 on the principle of promoting and assisting small enterprises in the U.S. credit market. Small businesses have been a primary source of job creation in the United States; therefore, fostering small business formation and growth has social benefits by creating job opportunities and reducing unemployment. One-way SBA assists these small business enterprises is through a loan guarantee program which is designed to encourage banks to grant loans to small businesses. SBA acts much like an insurance provider to reduce the risk for a bank by taking on some of the risk through guaranteeing a portion of the loan. In the case that a loan goes into default, SBA then covers the amount they guaranteed.
+   
+The purpose of this project is to create a loan default prediction model which will help a loan officer who is deciding whether to approve a loan or not to a small business by employing machine learning algorithms which can learn from data and make predictions. If the model predicts default, then the loan officer should be cautious and use his judgement to issue the loan. If the model predicts no default, then the loan officer can go forward and comfortably issue the loan to the Small Business. This a binary classification problem and we have used various classification algorithms to predict loan default. 
+
